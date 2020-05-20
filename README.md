@@ -1,10 +1,10 @@
-# Dive Into Boston and Seattle Airbnb Data #
+# Dive Into Boston and Airbnb Data #
 
 ## Table of Contents ##
 1. [Installations](#Installations)
 2. [Motivations](#Motivations)
 3. [File Desriptions](#File_Desc)
-4. [Medium Blog Link](#Medium_Link)
+4. [Medium_Blog_Link](#Medium_Link)
 4. [Licensing and Acknowledgements](#Licensing)
 5. [Results](#Results)
 
@@ -31,18 +31,19 @@ Files:
 - readme document
 - crime.csv, listings.csv, reviews.csv, calendars.csv files with raw data from Airbnb and Boston Police Department.
 
-## [Medium Blog Link] (#Medium_Link) ##
-Please find the link for Medium Blog Post Here - [Dive Into Boston and Airbnb Data][https://medium.com/@chaudhari.shubham172/pricing-fluctuations-and-price-affected-by-crime-in-boston-boston-airbnb-open-data-ddf0bc277bbf]
+## [Medium Blog Link](#Medium_Link) ##
+
+Please find the link for Medium Blog Post Here - [Dive Into Boston and Airbnb Data] [https://medium.com/@chaudhari.shubham172/pricing-fluctuations-and-price-affected-by-crime-in-boston-boston-airbnb-open-data-ddf0bc277bbf]
 
 ## [Licensing and Acknowledgements](#Licensing) ##
 
 I would like to thank Udacity for their ideas and support for this project. 
 
 I would like to acknowledge the following for their licensing and open data: 
-1. [Area Codes for Boston][https://en.wikipedia.org/wiki/List_of_Massachusetts_area_codes]
-2. [Police codes per area][https://bpdnews.com/districts]
-3. [Kaggle Police Crimes][https://www.kaggle.com/ankkur13/boston-crime-data/version/3]
-4. [AirBnb Data][https://www.kaggle.com/airbnb/boston]
+1. [Area Codes for Boston] [https://en.wikipedia.org/wiki/List_of_Massachusetts_area_codes]
+2. [Police codes per area] [https://bpdnews.com/districts]
+3. [Kaggle Police Crimes] [https://www.kaggle.com/ankkur13/boston-crime-data/version/3]
+4. [AirBnb Data] [https://www.kaggle.com/airbnb/boston]
 
 ## [Results](#Results) ##
 
